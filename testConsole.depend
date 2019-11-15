@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573720958 source:d:\code\testconsole\modules\function.c
+	"function.h"
+
+1573721003 d:\code\testconsole\modules\function.h
+
+1573723640 source:d:\code\testconsole\main.c
+	<stdio.h>
+	<stdlib.h>
+	"modules/function.h"
+

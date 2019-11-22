@@ -38,6 +38,17 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="modules/function.h" />
+		<Unit filename="snake.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/helloworld.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/helloworld.h" />
+		<Unit filename="tools/nunber_system.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tools/nunber_system.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -4,20 +4,28 @@
 
 1574311697 d:\code\testconsole\modules\function.h
 
-1574158167 source:d:\code\testconsole\main.c
-	<stdio.h>
-	<time.h>
-	<windows.h>
-	<stdlib.h>
+1574767723 source:d:\code\testconsole\main.c
+	"test/helloworld.h"
+	"tools/nunber_system.h"
 
 1574397128 source:d:\code\testconsole\test\helloworld.c
 	<stdio.h>
 
-1574322799 source:d:\code\testconsole\tools\nunber_system.c
+1574767633 source:d:\code\testconsole\tools\nunber_system.c
+	<stdio.h>
 
 1574396959 source:d:\code\testconsole\snake.c
 	<stdio.h>
 	<time.h>
 	<windows.h>
 	<stdlib.h>
+
+1574397174 d:\code\testconsole\test\helloworld.h
+
+1574767666 d:\code\testconsole\tools\nunber_system.h
+
+1574767723 source:d:\code\testconsole\learn\learn.c
+	<stdio.h>
+	<ctype.h>
+	<stdarg.h>
 

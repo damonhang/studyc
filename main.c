@@ -3,6 +3,6 @@
 
 int main()
 {
-    showInputbit();
+    show_int(12345);
     return 0;
 }

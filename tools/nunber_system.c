@@ -18,6 +18,7 @@ void showInputbit(){
 
 typedef unsigned char *byte_pointer;
 
+//展示数字的16进制字节表示
 void show_bytes(byte_pointer start ,size_t len){
     size_t i;
     for(i=0;i<len;i++){

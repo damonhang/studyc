@@ -49,6 +49,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="test/helloworld.h" />
+		<Unit filename="test/testCompile.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
 		<Unit filename="tools/nunber_system.c">
 			<Option compilerVar="CC" />
 		</Unit>
